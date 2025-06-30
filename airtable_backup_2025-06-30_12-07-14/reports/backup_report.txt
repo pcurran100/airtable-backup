@@ -1,0 +1,34 @@
+
+Airtable Backup Report
+=====================
+
+Backup Date: 2025-06-30_12-07-14
+Output Directory: airtable_backup_2025-06-30_12-07-14
+
+Statistics:
+- Bases Processed: 0
+- Tables Processed: 6
+- Records Processed: 530
+- Attachments Downloaded: 26
+- Errors: 6
+
+Output Formats:
+- JSON: airtable_backup_2025-06-30_12-07-14/data/json/
+- YAML: airtable_backup_2025-06-30_12-07-14/data/yaml/
+- NDJSON: airtable_backup_2025-06-30_12-07-14/data/ndjson/
+- CSV: airtable_backup_2025-06-30_12-07-14/data/csv/
+- SQLite: airtable_backup_2025-06-30_12-07-14/data/sqlite/
+- Parquet: airtable_backup_2025-06-30_12-07-14/data/parquet/ (if pandas available)
+
+Attachments: airtable_backup_2025-06-30_12-07-14/attachments/
+Logs: airtable_backup_2025-06-30_12-07-14/logs/
+Metadata: airtable_backup_2025-06-30_12-07-14/metadata/
+
+
+Errors:
+- Table Users: dict contains fields not in fieldnames: 'Mentoring Applications', 'Mentoring Events Applied to', 'Mentoring Events Attended', 'Founder'
+- Table Mentoring Applications: dict contains fields not in fieldnames: 'Timeslot 3rd Choice', '2nd Mentor Questions', '3rd Mentor', '3rd Mentor Time', '3rd Mentor Questions'
+- Table Timeslots: dict contains fields not in fieldnames: 'Group Timeslot 2nd'
+- Table Mentor Availability: dict contains fields not in fieldnames: '2nd Slot (from Timeslots)', '3rd Slot (from Timeslots)', '1st Slot (from Timeslots)', 'Schedule Email Sent', 'Send Schedule Email'
+- Table Mentors: dict contains fields not in fieldnames: 'Mentor Availability', 'No Show Stats'
+- Table Testimonials: dict contains fields not in fieldnames: 'Notes'

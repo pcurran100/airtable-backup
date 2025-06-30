@@ -1,0 +1,141 @@
+2025-06-30 12:07:14,511 - INFO - Starting Airtable backup process
+2025-06-30 12:07:14,511 - INFO - Output directory: airtable_backup_2025-06-30_12-07-14
+2025-06-30 12:07:14,511 - INFO - Directory structure created
+2025-06-30 12:07:14,511 - INFO - Starting Airtable workspace backup...
+2025-06-30 12:07:14,511 - INFO - Fetching base information...
+2025-06-30 12:07:15,401 - INFO - Found 92 bases
+2025-06-30 12:07:15,401 - INFO -   - First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:07:15,401 - INFO -   - Alltech 2019 (app1WWlu3PZhRLZHi)
+2025-06-30 12:07:15,401 - INFO -   - DPL Startups Database (app2gV4uXElyIOOi8)
+2025-06-30 12:07:15,401 - INFO -   - Hannover Re Incubator (appPKLcttGLuqJMG4)
+2025-06-30 12:07:15,401 - INFO -   - Irish Tech Ecosystem (appFvSiVJTkxktYRl)
+2025-06-30 12:07:15,401 - INFO -   - DPL Events Platform (appeOjGn5AtECrb8f)
+2025-06-30 12:07:15,401 - INFO -   - Alltech 2020 (appGo6m5yzmuHu1OF)
+2025-06-30 12:07:15,401 - INFO -   - OLD ESB X_Potential 2020 OLD (app5JBlyep2cGvtFg)
+2025-06-30 12:07:15,401 - INFO -   - test base (appwihBHJTVmZEsd8)
+2025-06-30 12:07:15,401 - INFO -   - DPL and NDRC Jobs Board (appmZJNmUnTTvxpC9)
+2025-06-30 12:07:15,401 - INFO -   - ESB X_Potential 2022 (apphcVFGlMzME4f3m)
+2025-06-30 12:07:15,401 - INFO -   - First Fridays for Startups (Copy) (appneBjP7f4dygIaH)
+2025-06-30 12:07:15,401 - INFO -   - First Fridays for Startups (Copy) (appVvgaq2zm2NfLHp)
+2025-06-30 12:07:15,401 - INFO -   - Asset & Employee Register (apptmRWtIuTEadp44)
+2025-06-30 12:07:15,401 - INFO -   - TEMPLATE for HR (app0FwYMVyFR9V5dD)
+2025-06-30 12:07:15,401 - INFO -   - Innovation - Sustainability Accelerator (app3RVe7MJLi8Zhir)
+2025-06-30 12:07:15,401 - INFO -   - First Fridays for Startups (April 10, 2023) (app50IaIhoE6P48Kz)
+2025-06-30 12:07:15,401 - INFO -   - Innovation Mentor Platform (appehYaqrsAd2ohRQ)
+2025-06-30 12:07:15,401 - INFO -   - test grounds (appKaQVA7iFJuI0s3)
+2025-06-30 12:07:15,402 - INFO -   - Fierce (app411i5BEbu2WT3V)
+2025-06-30 12:07:15,402 - INFO -   - Dogpatch Community Management (appTNJh7JUzeWInkk)
+2025-06-30 12:07:15,402 - INFO -   - NI: Contacts & Content (appFQpe1XcqxV2FcF)
+2025-06-30 12:07:15,402 - INFO -   - NI: Pipeline (appZXtHGQ2O1IUBpt)
+2025-06-30 12:07:15,402 - INFO -   - NI: Portfolio (appoqzVK5yDvzY4nc)
+2025-06-30 12:07:15,402 - INFO -   - NI: Feedback (app6gB4U7dL05k57b)
+2025-06-30 12:07:15,402 - INFO -   - NI: 4 Years (appDJjkp1A09vZB6A)
+2025-06-30 12:07:15,402 - INFO -   - NI: Resource Library (appxrfWTzBreVRQCt)
+2025-06-30 12:07:15,402 - INFO -   - NI: 2019 Archive (appLKx7n2jUtc0wJv)
+2025-06-30 12:07:15,402 - INFO -   - NI: Archive (appXLcN7TM5zOCNVL)
+2025-06-30 12:07:15,402 - INFO -   - Untitled Base (appe3JDobrsaWaxMI)
+2025-06-30 12:07:15,402 - INFO -   - Bookclub (app9MshgIswLCVFqV)
+2025-06-30 12:07:15,402 - INFO -   - Tech Talent Database (apprYkN9RT7TzVFgB)
+2025-06-30 12:07:15,402 - INFO -   - Menno DB (app58mhPBK5qc71nU)
+2025-06-30 12:07:15,402 - INFO -   - Resource Allocation (app79YJqbRIwyG91L)
+2025-06-30 12:07:15,402 - INFO -   - Innovation Program Platform (appX70XeWe49VQyWv)
+2025-06-30 12:07:15,402 - INFO -   - Software Perks (appI5covXDkZgHIK0)
+2025-06-30 12:07:15,402 - INFO -   - Kennel 2024 (appB1KYbOg0B11z6N)
+2025-06-30 12:07:15,402 - INFO -   - Marketing Calendar Management (app6KWTCpQykZXOIr)
+2025-06-30 12:07:15,402 - INFO -   - Emma Test Base (app5wv3OiWSXA9K40)
+2025-06-30 12:07:15,402 - INFO -   - WiFi Feedback Forms (appR3qiuxKbhNNFHV)
+2025-06-30 12:07:15,402 - INFO -   - NDRC Portfolio (apphn3Y3K3kyrAhek)
+2025-06-30 12:07:15,402 - INFO -   - Early-Stage Supports (appPnzGg2pDuTsHrR)
+2025-06-30 12:07:15,402 - INFO -   - NDRC Accelerator (app2AwjqYa6CHBAKD)
+2025-06-30 12:07:15,402 - INFO -   - Archived - Do not Delete - NDRC Accelerator (appy24PiLThdeqg0K)
+2025-06-30 12:07:15,402 - INFO -   - Masterclasses (appKYg0LWla9MX48H)
+2025-06-30 12:07:15,402 - INFO -   - Founder Weekend #1 (appQZmNtZL8C4ecyP)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weekend #1 (appIUrDbYkUr37rwK)
+2025-06-30 12:07:15,403 - INFO -   - NDRC - Software Costs - Copy of QB.csv (appTULRrjL0d01fRy)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weekend #2 (appTNUIl6m7VhG68N)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #3 (appp0qdvnYuM2uu9A)
+2025-06-30 12:07:15,403 - INFO -   - NDRC Sample Base (appKT4ROAuI17aZM3)
+2025-06-30 12:07:15,403 - INFO -   - test base (appfrjlFtyacaZg64)
+2025-06-30 12:07:15,403 - INFO -   - Removed NDRC Startups (appd3RCFKBqSjfhGO)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #4 (appzb6HV8BWtnIfVT)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #5 (appjoIid0LnyU3svQ)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #6 (app2ZDGSvzZ1wC9eZ)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #7 (DPL 2022) (appxutUVLGK3nOo2h)
+2025-06-30 12:07:15,403 - INFO -   - NDRC ESS Mentors & Speakers (appi9gWwW6zjVNpb9)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #8 (RDI 2023) (appRS44cilKG5DvNX)
+2025-06-30 12:07:15,403 - INFO -   - NDRC Mailing List (appY9UzLbOQ1pVNpV)
+2025-06-30 12:07:15,403 - INFO -   - 2023 Founders Talent Accelerator (appa7jPKCyR7vyBQ0)
+2025-06-30 12:07:15,403 - INFO -   -  Founder Weeked #9 (DPL 2023) (appWPngPgnGL2YS1Y)
+2025-06-30 12:07:15,403 - INFO -   - Pitch Clinics Booking (appoMBHjbHCgCRYGk)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #10 (RoW 2023) (appBsLuAFoW9cfwkm)
+2025-06-30 12:07:15,403 - INFO -   - NDRC Accelerator Perks [OLD] (appzshDANWQb9THUY)
+2025-06-30 12:07:15,403 - INFO -   - Founder Weeked #11 (PS 2023) (appmKAyVy0R7JTZyD)
+2025-06-30 12:07:15,403 - INFO -   - Startup Sprint @ UL 2023 (app81Ba8FQUk2PA4j)
+2025-06-30 12:07:15,403 - INFO -   - Accelerator NDRC (Applications & Selection) (app4dIhIomLpRzOwa)
+2025-06-30 12:07:15,403 - INFO -   - [OLD] Founders Accelerator Phase [OLD] (appr9skZidQCYfZBt)
+2025-06-30 12:07:15,403 - INFO -   - Universities (appj9bopLyYavrT6c)
+2025-06-30 12:07:15,403 - INFO -   - ESS Documentation (appPOSgkIfXy81gZI)
+2025-06-30 12:07:15,403 - INFO -   -  Founder Weeked #13 (RDI 2024) (apprgwmi4Ee7PFYk3)
+2025-06-30 12:07:15,403 - INFO -   - 2024 Founders Talent Accelerator (appv4GvJ1qbapMRcn)
+2025-06-30 12:07:15,404 - INFO -   - 2050 Hackathon #14 (Q1 2024) (appBOJUtlKuEaJ4G8)
+2025-06-30 12:07:15,404 - INFO -   -  Founder Weeked #15 (DPL 2024) (appj1SBCtXwPcIQCg)
+2025-06-30 12:07:15,404 - INFO -   - Startup Sprint (RoW 2024) (appRWV1OdfIjU64v4)
+2025-06-30 12:07:15,404 - INFO -   - Founders Portfolio (app1J4TfGGufuV8sD)
+2025-06-30 12:07:15,404 - INFO -   - Media Monitoring | ISE Project (app6jaivrEIoHEQnd)
+2025-06-30 12:07:15,404 - INFO -   - Founder Weekend (PorterShed 2024) (appTV0lX7E9Ge5CwT)
+2025-06-30 12:07:15,404 - INFO -   - Startup Day @ Google (25/10/24) (appAHADa8seyoHXsj)
+2025-06-30 12:07:15,404 - INFO -   - Frontline x Dogpatch Office Hours (v2) (app1KGw0dakzwSvnI)
+2025-06-30 12:07:15,404 - INFO -   - Startup Sprint (RDI/ISE 2024) (appLT5ki7yFq01Nn8)
+2025-06-30 12:07:15,404 - INFO -   - Project Management (appYrBxSo8i2lwIdj)
+2025-06-30 12:07:15,404 - INFO -   - NDRC Lunch & Learns (appafWH4eHIZOjr0G)
+2025-06-30 12:07:15,404 - INFO -   - Startup Sprint (RoW 2025) (appfubNWh3rar4gZE)
+2025-06-30 12:07:15,404 - INFO -   - NDRC Accelerator (January 31, 2024) (apphELEgX8Bu5uInv)
+2025-06-30 12:07:15,404 - INFO -   - Early-Stage Supports (December 22, 2024) - Perks Query (appl1lhmFnkHyRtoi)
+2025-06-30 12:07:15,404 - INFO -   - Startup Sprint (RDI Hub 2025) (appUvdBumpl332bcv)
+2025-06-30 12:07:15,404 - INFO -   - Founders Accelerator Phase (April 16, 2024) (appJkzRl7KcXhKwwE)
+2025-06-30 12:07:15,404 - INFO -   - Founders Phase 2 - Accelerator (appEfoxJkpbr2T0rh)
+2025-06-30 12:07:15,404 - INFO -   -  Founder Weekend #21 (Portershed 2025) (appYJuFLDsLFYgkqM)
+2025-06-30 12:07:15,404 - INFO -   - ESB X_Potential 2023 (appIO5I8UZDJRM7AE)
+2025-06-30 12:07:15,406 - INFO - 
+Processing base: First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:07:16,295 - INFO - Found 11 tables in base appGByjQgZPE3xIEP
+2025-06-30 12:07:16,296 - INFO - 
+Processing table: Users
+2025-06-30 12:07:16,296 - INFO - Fetching records from table 'Users'...
+2025-06-30 12:07:16,897 - INFO -   Page 1: 100 records
+2025-06-30 12:07:16,952 - ERROR - Error fetching records from table 'Users': dict contains fields not in fieldnames: 'Mentoring Applications', 'Mentoring Events Applied to', 'Mentoring Events Attended', 'Founder'
+2025-06-30 12:07:16,954 - INFO - Completed table: Users (100 records)
+2025-06-30 12:07:16,954 - INFO - 
+Processing table: Mentoring Applications
+2025-06-30 12:07:16,954 - INFO - Fetching records from table 'Mentoring Applications'...
+2025-06-30 12:07:17,887 - INFO -   Page 1: 100 records
+2025-06-30 12:07:18,111 - ERROR - Error fetching records from table 'Mentoring Applications': dict contains fields not in fieldnames: 'Timeslot 3rd Choice', '2nd Mentor Questions', '3rd Mentor', '3rd Mentor Time', '3rd Mentor Questions'
+2025-06-30 12:07:18,113 - INFO - Completed table: Mentoring Applications (100 records)
+2025-06-30 12:07:18,113 - INFO - 
+Processing table: Timeslots
+2025-06-30 12:07:18,113 - INFO - Fetching records from table 'Timeslots'...
+2025-06-30 12:07:18,940 - INFO -   Page 1: 100 records
+2025-06-30 12:07:19,078 - ERROR - Error fetching records from table 'Timeslots': dict contains fields not in fieldnames: 'Group Timeslot 2nd'
+2025-06-30 12:07:19,079 - INFO - Completed table: Timeslots (100 records)
+2025-06-30 12:07:19,079 - INFO - 
+Processing table: Mentor Availability
+2025-06-30 12:07:19,079 - INFO - Fetching records from table 'Mentor Availability'...
+2025-06-30 12:07:19,746 - INFO -   Page 1: 100 records
+2025-06-30 12:07:19,906 - ERROR - Error fetching records from table 'Mentor Availability': dict contains fields not in fieldnames: '2nd Slot (from Timeslots)', '3rd Slot (from Timeslots)', '1st Slot (from Timeslots)', 'Schedule Email Sent', 'Send Schedule Email'
+2025-06-30 12:07:19,907 - INFO - Completed table: Mentor Availability (100 records)
+2025-06-30 12:07:19,907 - INFO - 
+Processing table: Mentors
+2025-06-30 12:07:19,907 - INFO - Fetching records from table 'Mentors'...
+2025-06-30 12:07:20,894 - INFO -   Page 1: 100 records
+2025-06-30 12:07:20,985 - ERROR - Error fetching records from table 'Mentors': dict contains fields not in fieldnames: 'Mentor Availability', 'No Show Stats'
+2025-06-30 12:07:20,986 - INFO - Completed table: Mentors (100 records)
+2025-06-30 12:07:20,986 - INFO - 
+Processing table: Testimonials
+2025-06-30 12:07:20,986 - INFO - Fetching records from table 'Testimonials'...
+2025-06-30 12:07:21,843 - INFO -   Page 1: 30 records
+2025-06-30 12:07:30,014 - ERROR - Error fetching records from table 'Testimonials': dict contains fields not in fieldnames: 'Notes'
+2025-06-30 12:07:30,017 - INFO - Completed table: Testimonials (30 records)
+2025-06-30 12:07:30,017 - INFO - 
+Processing table: Crowdcast/Zoom Registrations
+2025-06-30 12:07:30,017 - ERROR - Backup failed: [Errno 2] No such file or directory: 'airtable_backup_2025-06-30_12-07-14/data/json/First Fridays for Startups/Crowdcast/Zoom Registrations'
+2025-06-30 12:07:30,017 - INFO - Backup report generated

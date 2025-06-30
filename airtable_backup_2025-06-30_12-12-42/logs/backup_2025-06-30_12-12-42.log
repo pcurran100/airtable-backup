@@ -1,0 +1,904 @@
+2025-06-30 12:12:42,652 - INFO - Starting Airtable backup process
+2025-06-30 12:12:42,652 - INFO - Output directory: airtable_backup_2025-06-30_12-12-42
+2025-06-30 12:12:42,652 - INFO - Directory structure created
+2025-06-30 12:12:42,652 - INFO - Starting Airtable workspace backup...
+2025-06-30 12:12:42,652 - INFO - Fetching base information...
+2025-06-30 12:12:43,314 - INFO - Found 92 bases
+2025-06-30 12:12:43,314 - INFO -   - First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:12:43,314 - INFO -   - Alltech 2019 (app1WWlu3PZhRLZHi)
+2025-06-30 12:12:43,314 - INFO -   - DPL Startups Database (app2gV4uXElyIOOi8)
+2025-06-30 12:12:43,314 - INFO -   - Hannover Re Incubator (appPKLcttGLuqJMG4)
+2025-06-30 12:12:43,314 - INFO -   - Irish Tech Ecosystem (appFvSiVJTkxktYRl)
+2025-06-30 12:12:43,314 - INFO -   - DPL Events Platform (appeOjGn5AtECrb8f)
+2025-06-30 12:12:43,314 - INFO -   - Alltech 2020 (appGo6m5yzmuHu1OF)
+2025-06-30 12:12:43,314 - INFO -   - OLD ESB X_Potential 2020 OLD (app5JBlyep2cGvtFg)
+2025-06-30 12:12:43,314 - INFO -   - test base (appwihBHJTVmZEsd8)
+2025-06-30 12:12:43,314 - INFO -   - DPL and NDRC Jobs Board (appmZJNmUnTTvxpC9)
+2025-06-30 12:12:43,314 - INFO -   - ESB X_Potential 2022 (apphcVFGlMzME4f3m)
+2025-06-30 12:12:43,314 - INFO -   - First Fridays for Startups (Copy) (appneBjP7f4dygIaH)
+2025-06-30 12:12:43,314 - INFO -   - First Fridays for Startups (Copy) (appVvgaq2zm2NfLHp)
+2025-06-30 12:12:43,314 - INFO -   - Asset & Employee Register (apptmRWtIuTEadp44)
+2025-06-30 12:12:43,314 - INFO -   - TEMPLATE for HR (app0FwYMVyFR9V5dD)
+2025-06-30 12:12:43,314 - INFO -   - Innovation - Sustainability Accelerator (app3RVe7MJLi8Zhir)
+2025-06-30 12:12:43,314 - INFO -   - First Fridays for Startups (April 10, 2023) (app50IaIhoE6P48Kz)
+2025-06-30 12:12:43,314 - INFO -   - Innovation Mentor Platform (appehYaqrsAd2ohRQ)
+2025-06-30 12:12:43,314 - INFO -   - test grounds (appKaQVA7iFJuI0s3)
+2025-06-30 12:12:43,314 - INFO -   - Fierce (app411i5BEbu2WT3V)
+2025-06-30 12:12:43,314 - INFO -   - Dogpatch Community Management (appTNJh7JUzeWInkk)
+2025-06-30 12:12:43,314 - INFO -   - NI: Contacts & Content (appFQpe1XcqxV2FcF)
+2025-06-30 12:12:43,314 - INFO -   - NI: Pipeline (appZXtHGQ2O1IUBpt)
+2025-06-30 12:12:43,314 - INFO -   - NI: Portfolio (appoqzVK5yDvzY4nc)
+2025-06-30 12:12:43,314 - INFO -   - NI: Feedback (app6gB4U7dL05k57b)
+2025-06-30 12:12:43,314 - INFO -   - NI: 4 Years (appDJjkp1A09vZB6A)
+2025-06-30 12:12:43,314 - INFO -   - NI: Resource Library (appxrfWTzBreVRQCt)
+2025-06-30 12:12:43,315 - INFO -   - NI: 2019 Archive (appLKx7n2jUtc0wJv)
+2025-06-30 12:12:43,315 - INFO -   - NI: Archive (appXLcN7TM5zOCNVL)
+2025-06-30 12:12:43,315 - INFO -   - Untitled Base (appe3JDobrsaWaxMI)
+2025-06-30 12:12:43,315 - INFO -   - Bookclub (app9MshgIswLCVFqV)
+2025-06-30 12:12:43,315 - INFO -   - Tech Talent Database (apprYkN9RT7TzVFgB)
+2025-06-30 12:12:43,315 - INFO -   - Menno DB (app58mhPBK5qc71nU)
+2025-06-30 12:12:43,315 - INFO -   - Resource Allocation (app79YJqbRIwyG91L)
+2025-06-30 12:12:43,315 - INFO -   - Innovation Program Platform (appX70XeWe49VQyWv)
+2025-06-30 12:12:43,315 - INFO -   - Software Perks (appI5covXDkZgHIK0)
+2025-06-30 12:12:43,315 - INFO -   - Kennel 2024 (appB1KYbOg0B11z6N)
+2025-06-30 12:12:43,315 - INFO -   - Marketing Calendar Management (app6KWTCpQykZXOIr)
+2025-06-30 12:12:43,315 - INFO -   - Emma Test Base (app5wv3OiWSXA9K40)
+2025-06-30 12:12:43,315 - INFO -   - WiFi Feedback Forms (appR3qiuxKbhNNFHV)
+2025-06-30 12:12:43,315 - INFO -   - NDRC Portfolio (apphn3Y3K3kyrAhek)
+2025-06-30 12:12:43,315 - INFO -   - Early-Stage Supports (appPnzGg2pDuTsHrR)
+2025-06-30 12:12:43,315 - INFO -   - NDRC Accelerator (app2AwjqYa6CHBAKD)
+2025-06-30 12:12:43,315 - INFO -   - Archived - Do not Delete - NDRC Accelerator (appy24PiLThdeqg0K)
+2025-06-30 12:12:43,315 - INFO -   - Masterclasses (appKYg0LWla9MX48H)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weekend #1 (appQZmNtZL8C4ecyP)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weekend #1 (appIUrDbYkUr37rwK)
+2025-06-30 12:12:43,315 - INFO -   - NDRC - Software Costs - Copy of QB.csv (appTULRrjL0d01fRy)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weekend #2 (appTNUIl6m7VhG68N)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #3 (appp0qdvnYuM2uu9A)
+2025-06-30 12:12:43,315 - INFO -   - NDRC Sample Base (appKT4ROAuI17aZM3)
+2025-06-30 12:12:43,315 - INFO -   - test base (appfrjlFtyacaZg64)
+2025-06-30 12:12:43,315 - INFO -   - Removed NDRC Startups (appd3RCFKBqSjfhGO)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #4 (appzb6HV8BWtnIfVT)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #5 (appjoIid0LnyU3svQ)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #6 (app2ZDGSvzZ1wC9eZ)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #7 (DPL 2022) (appxutUVLGK3nOo2h)
+2025-06-30 12:12:43,315 - INFO -   - NDRC ESS Mentors & Speakers (appi9gWwW6zjVNpb9)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #8 (RDI 2023) (appRS44cilKG5DvNX)
+2025-06-30 12:12:43,315 - INFO -   - NDRC Mailing List (appY9UzLbOQ1pVNpV)
+2025-06-30 12:12:43,315 - INFO -   - 2023 Founders Talent Accelerator (appa7jPKCyR7vyBQ0)
+2025-06-30 12:12:43,315 - INFO -   -  Founder Weeked #9 (DPL 2023) (appWPngPgnGL2YS1Y)
+2025-06-30 12:12:43,315 - INFO -   - Pitch Clinics Booking (appoMBHjbHCgCRYGk)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #10 (RoW 2023) (appBsLuAFoW9cfwkm)
+2025-06-30 12:12:43,315 - INFO -   - NDRC Accelerator Perks [OLD] (appzshDANWQb9THUY)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weeked #11 (PS 2023) (appmKAyVy0R7JTZyD)
+2025-06-30 12:12:43,315 - INFO -   - Startup Sprint @ UL 2023 (app81Ba8FQUk2PA4j)
+2025-06-30 12:12:43,315 - INFO -   - Accelerator NDRC (Applications & Selection) (app4dIhIomLpRzOwa)
+2025-06-30 12:12:43,315 - INFO -   - [OLD] Founders Accelerator Phase [OLD] (appr9skZidQCYfZBt)
+2025-06-30 12:12:43,315 - INFO -   - Universities (appj9bopLyYavrT6c)
+2025-06-30 12:12:43,315 - INFO -   - ESS Documentation (appPOSgkIfXy81gZI)
+2025-06-30 12:12:43,315 - INFO -   -  Founder Weeked #13 (RDI 2024) (apprgwmi4Ee7PFYk3)
+2025-06-30 12:12:43,315 - INFO -   - 2024 Founders Talent Accelerator (appv4GvJ1qbapMRcn)
+2025-06-30 12:12:43,315 - INFO -   - 2050 Hackathon #14 (Q1 2024) (appBOJUtlKuEaJ4G8)
+2025-06-30 12:12:43,315 - INFO -   -  Founder Weeked #15 (DPL 2024) (appj1SBCtXwPcIQCg)
+2025-06-30 12:12:43,315 - INFO -   - Startup Sprint (RoW 2024) (appRWV1OdfIjU64v4)
+2025-06-30 12:12:43,315 - INFO -   - Founders Portfolio (app1J4TfGGufuV8sD)
+2025-06-30 12:12:43,315 - INFO -   - Media Monitoring | ISE Project (app6jaivrEIoHEQnd)
+2025-06-30 12:12:43,315 - INFO -   - Founder Weekend (PorterShed 2024) (appTV0lX7E9Ge5CwT)
+2025-06-30 12:12:43,316 - INFO -   - Startup Day @ Google (25/10/24) (appAHADa8seyoHXsj)
+2025-06-30 12:12:43,316 - INFO -   - Frontline x Dogpatch Office Hours (v2) (app1KGw0dakzwSvnI)
+2025-06-30 12:12:43,316 - INFO -   - Startup Sprint (RDI/ISE 2024) (appLT5ki7yFq01Nn8)
+2025-06-30 12:12:43,316 - INFO -   - Project Management (appYrBxSo8i2lwIdj)
+2025-06-30 12:12:43,316 - INFO -   - NDRC Lunch & Learns (appafWH4eHIZOjr0G)
+2025-06-30 12:12:43,316 - INFO -   - Startup Sprint (RoW 2025) (appfubNWh3rar4gZE)
+2025-06-30 12:12:43,316 - INFO -   - NDRC Accelerator (January 31, 2024) (apphELEgX8Bu5uInv)
+2025-06-30 12:12:43,316 - INFO -   - Early-Stage Supports (December 22, 2024) - Perks Query (appl1lhmFnkHyRtoi)
+2025-06-30 12:12:43,316 - INFO -   - Startup Sprint (RDI Hub 2025) (appUvdBumpl332bcv)
+2025-06-30 12:12:43,316 - INFO -   - Founders Accelerator Phase (April 16, 2024) (appJkzRl7KcXhKwwE)
+2025-06-30 12:12:43,316 - INFO -   - Founders Phase 2 - Accelerator (appEfoxJkpbr2T0rh)
+2025-06-30 12:12:43,316 - INFO -   -  Founder Weekend #21 (Portershed 2025) (appYJuFLDsLFYgkqM)
+2025-06-30 12:12:43,316 - INFO -   - ESB X_Potential 2023 (appIO5I8UZDJRM7AE)
+2025-06-30 12:12:43,317 - INFO - 
+Processing base: First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:12:44,164 - INFO - Found 11 tables in base appGByjQgZPE3xIEP
+2025-06-30 12:12:44,166 - INFO - 
+Processing table: Users
+2025-06-30 12:12:44,166 - INFO - Fetching records from table 'Users'...
+2025-06-30 12:12:44,935 - INFO -   Page 1: 100 records
+2025-06-30 12:12:45,007 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:45,007 - INFO -   Progressive output written (page 1)
+2025-06-30 12:12:45,736 - INFO -   Page 2: 100 records
+2025-06-30 12:12:45,840 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:45,840 - INFO -   Progressive output written (page 2)
+2025-06-30 12:12:46,571 - INFO -   Page 3: 100 records
+2025-06-30 12:12:46,701 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:46,701 - INFO -   Progressive output written (page 3)
+2025-06-30 12:12:47,536 - INFO -   Page 4: 100 records
+2025-06-30 12:12:47,707 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:47,707 - INFO -   Progressive output written (page 4)
+2025-06-30 12:12:48,394 - INFO -   Page 5: 100 records
+2025-06-30 12:12:48,602 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:48,602 - INFO -   Progressive output written (page 5)
+2025-06-30 12:12:49,232 - INFO -   Page 6: 100 records
+2025-06-30 12:12:49,467 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:49,467 - INFO -   Progressive output written (page 6)
+2025-06-30 12:12:50,076 - INFO -   Page 7: 100 records
+2025-06-30 12:12:50,419 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:50,419 - INFO -   Progressive output written (page 7)
+2025-06-30 12:12:51,159 - INFO -   Page 8: 100 records
+2025-06-30 12:12:51,495 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:51,495 - INFO -   Progressive output written (page 8)
+2025-06-30 12:12:52,232 - INFO -   Page 9: 93 records
+2025-06-30 12:12:52,566 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:52,566 - INFO -   Progressive output written (page 9)
+2025-06-30 12:12:52,566 - INFO - Total records fetched: 893
+2025-06-30 12:12:52,567 - INFO - Completed table: Users (893 records)
+2025-06-30 12:12:52,567 - INFO - 
+Processing table: Mentoring Applications
+2025-06-30 12:12:52,567 - INFO - Fetching records from table 'Mentoring Applications'...
+2025-06-30 12:12:53,448 - INFO -   Page 1: 100 records
+2025-06-30 12:12:53,645 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:53,645 - INFO -   Progressive output written (page 1)
+2025-06-30 12:12:54,740 - INFO -   Page 2: 100 records
+2025-06-30 12:12:55,105 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:55,105 - INFO -   Progressive output written (page 2)
+2025-06-30 12:12:56,024 - INFO -   Page 3: 100 records
+2025-06-30 12:12:56,559 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:56,559 - INFO -   Progressive output written (page 3)
+2025-06-30 12:12:57,568 - INFO -   Page 4: 100 records
+2025-06-30 12:12:58,276 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:58,276 - INFO -   Progressive output written (page 4)
+2025-06-30 12:12:59,035 - INFO -   Page 5: 72 records
+2025-06-30 12:12:59,859 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:12:59,859 - INFO -   Progressive output written (page 5)
+2025-06-30 12:12:59,859 - INFO - Total records fetched: 472
+2025-06-30 12:12:59,860 - INFO - Completed table: Mentoring Applications (472 records)
+2025-06-30 12:12:59,860 - INFO - 
+Processing table: Timeslots
+2025-06-30 12:12:59,860 - INFO - Fetching records from table 'Timeslots'...
+2025-06-30 12:13:00,709 - INFO -   Page 1: 100 records
+2025-06-30 12:13:00,850 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:00,850 - INFO -   Progressive output written (page 1)
+2025-06-30 12:13:01,613 - INFO -   Page 2: 100 records
+2025-06-30 12:13:01,869 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:01,869 - INFO -   Progressive output written (page 2)
+2025-06-30 12:13:02,654 - INFO -   Page 3: 100 records
+2025-06-30 12:13:03,053 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:03,053 - INFO -   Progressive output written (page 3)
+2025-06-30 12:13:03,959 - INFO -   Page 4: 100 records
+2025-06-30 12:13:04,469 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:04,469 - INFO -   Progressive output written (page 4)
+2025-06-30 12:13:05,398 - INFO -   Page 5: 100 records
+2025-06-30 12:13:06,061 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:06,061 - INFO -   Progressive output written (page 5)
+2025-06-30 12:13:06,812 - INFO -   Page 6: 100 records
+2025-06-30 12:13:07,709 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:07,709 - INFO -   Progressive output written (page 6)
+2025-06-30 12:13:08,474 - INFO -   Page 7: 100 records
+2025-06-30 12:13:09,348 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:09,348 - INFO -   Progressive output written (page 7)
+2025-06-30 12:13:10,103 - INFO -   Page 8: 100 records
+2025-06-30 12:13:11,152 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:11,152 - INFO -   Progressive output written (page 8)
+2025-06-30 12:13:12,110 - INFO -   Page 9: 100 records
+2025-06-30 12:13:13,238 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:13,239 - INFO -   Progressive output written (page 9)
+2025-06-30 12:13:14,157 - INFO -   Page 10: 100 records
+2025-06-30 12:13:15,492 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:15,493 - INFO -   Progressive output written (page 10)
+2025-06-30 12:13:16,484 - INFO -   Page 11: 100 records
+2025-06-30 12:13:17,850 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:17,850 - INFO -   Progressive output written (page 11)
+2025-06-30 12:13:19,062 - INFO -   Page 12: 100 records
+2025-06-30 12:13:20,550 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:20,551 - INFO -   Progressive output written (page 12)
+2025-06-30 12:13:21,480 - INFO -   Page 13: 100 records
+2025-06-30 12:13:23,083 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:23,083 - INFO -   Progressive output written (page 13)
+2025-06-30 12:13:24,144 - INFO -   Page 14: 100 records
+2025-06-30 12:13:25,877 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:25,878 - INFO -   Progressive output written (page 14)
+2025-06-30 12:13:26,684 - INFO -   Page 15: 100 records
+2025-06-30 12:13:28,799 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:28,800 - INFO -   Progressive output written (page 15)
+2025-06-30 12:13:29,604 - INFO -   Page 16: 100 records
+2025-06-30 12:13:31,897 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:31,899 - INFO -   Progressive output written (page 16)
+2025-06-30 12:13:33,199 - INFO -   Page 17: 100 records
+2025-06-30 12:13:35,580 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:35,581 - INFO -   Progressive output written (page 17)
+2025-06-30 12:13:36,792 - INFO -   Page 18: 100 records
+2025-06-30 12:13:39,011 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:39,013 - INFO -   Progressive output written (page 18)
+2025-06-30 12:13:39,936 - INFO -   Page 19: 100 records
+2025-06-30 12:13:42,799 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:42,800 - INFO -   Progressive output written (page 19)
+2025-06-30 12:13:43,883 - INFO -   Page 20: 100 records
+2025-06-30 12:13:46,445 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:46,448 - INFO -   Progressive output written (page 20)
+2025-06-30 12:13:47,580 - INFO -   Page 21: 100 records
+2025-06-30 12:13:50,312 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:50,313 - INFO -   Progressive output written (page 21)
+2025-06-30 12:13:51,129 - INFO -   Page 22: 100 records
+2025-06-30 12:13:54,113 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:54,116 - INFO -   Progressive output written (page 22)
+2025-06-30 12:13:54,972 - INFO -   Page 23: 100 records
+2025-06-30 12:13:57,963 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:13:57,964 - INFO -   Progressive output written (page 23)
+2025-06-30 12:13:58,861 - INFO -   Page 24: 100 records
+2025-06-30 12:14:02,195 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:02,198 - INFO -   Progressive output written (page 24)
+2025-06-30 12:14:03,011 - INFO -   Page 25: 100 records
+2025-06-30 12:14:06,292 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:06,294 - INFO -   Progressive output written (page 25)
+2025-06-30 12:14:07,230 - INFO -   Page 26: 100 records
+2025-06-30 12:14:10,737 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:10,738 - INFO -   Progressive output written (page 26)
+2025-06-30 12:14:11,711 - INFO -   Page 27: 100 records
+2025-06-30 12:14:15,282 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:15,283 - INFO -   Progressive output written (page 27)
+2025-06-30 12:14:16,438 - INFO -   Page 28: 30 records
+2025-06-30 12:14:20,002 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:20,004 - INFO -   Progressive output written (page 28)
+2025-06-30 12:14:20,004 - INFO - Total records fetched: 2730
+2025-06-30 12:14:20,006 - INFO - Completed table: Timeslots (2730 records)
+2025-06-30 12:14:20,006 - INFO - 
+Processing table: Mentor Availability
+2025-06-30 12:14:20,006 - INFO - Fetching records from table 'Mentor Availability'...
+2025-06-30 12:14:20,808 - INFO -   Page 1: 100 records
+2025-06-30 12:14:20,976 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:20,981 - INFO -   Progressive output written (page 1)
+2025-06-30 12:14:22,138 - INFO -   Page 2: 100 records
+2025-06-30 12:14:22,440 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:22,440 - INFO -   Progressive output written (page 2)
+2025-06-30 12:14:23,374 - INFO -   Page 3: 100 records
+2025-06-30 12:14:23,810 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:23,811 - INFO -   Progressive output written (page 3)
+2025-06-30 12:14:24,665 - INFO -   Page 4: 100 records
+2025-06-30 12:14:25,253 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:25,253 - INFO -   Progressive output written (page 4)
+2025-06-30 12:14:26,473 - INFO -   Page 5: 100 records
+2025-06-30 12:14:27,256 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:27,256 - INFO -   Progressive output written (page 5)
+2025-06-30 12:14:28,242 - INFO -   Page 6: 100 records
+2025-06-30 12:14:29,210 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:29,211 - INFO -   Progressive output written (page 6)
+2025-06-30 12:14:30,036 - INFO -   Page 7: 100 records
+2025-06-30 12:14:31,072 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:31,072 - INFO -   Progressive output written (page 7)
+2025-06-30 12:14:32,096 - INFO -   Page 8: 100 records
+2025-06-30 12:14:33,295 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:33,296 - INFO -   Progressive output written (page 8)
+2025-06-30 12:14:34,292 - INFO -   Page 9: 100 records
+2025-06-30 12:14:35,711 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:35,712 - INFO -   Progressive output written (page 9)
+2025-06-30 12:14:36,629 - INFO -   Page 10: 24 records
+2025-06-30 12:14:38,033 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:38,034 - INFO -   Progressive output written (page 10)
+2025-06-30 12:14:38,034 - INFO - Total records fetched: 924
+2025-06-30 12:14:38,039 - INFO - Completed table: Mentor Availability (924 records)
+2025-06-30 12:14:38,039 - INFO - 
+Processing table: Mentors
+2025-06-30 12:14:38,039 - INFO - Fetching records from table 'Mentors'...
+2025-06-30 12:14:38,815 - INFO -   Page 1: 100 records
+2025-06-30 12:14:38,918 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:38,918 - INFO -   Progressive output written (page 1)
+2025-06-30 12:14:39,860 - INFO -   Page 2: 100 records
+2025-06-30 12:14:40,027 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:40,027 - INFO -   Progressive output written (page 2)
+2025-06-30 12:14:40,828 - INFO -   Page 3: 42 records
+2025-06-30 12:14:41,159 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:41,160 - INFO -   Progressive output written (page 3)
+2025-06-30 12:14:41,160 - INFO - Total records fetched: 242
+2025-06-30 12:14:41,165 - INFO - Completed table: Mentors (242 records)
+2025-06-30 12:14:41,165 - INFO - 
+Processing table: Testimonials
+2025-06-30 12:14:41,168 - INFO - Fetching records from table 'Testimonials'...
+2025-06-30 12:14:41,944 - INFO -   Page 1: 30 records
+2025-06-30 12:14:51,713 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:51,713 - INFO -   Progressive output written (page 1)
+2025-06-30 12:14:51,714 - INFO - Total records fetched: 30
+2025-06-30 12:14:51,715 - INFO - Completed table: Testimonials (30 records)
+2025-06-30 12:14:51,715 - INFO - 
+Processing table: Crowdcast/Zoom Registrations
+2025-06-30 12:14:51,715 - INFO - Fetching records from table 'Crowdcast/Zoom Registrations'...
+2025-06-30 12:14:52,525 - INFO -   Page 1: 100 records
+2025-06-30 12:14:52,588 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:52,590 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:52,590 - INFO -   Progressive output written (page 1)
+2025-06-30 12:14:53,355 - INFO -   Page 2: 100 records
+2025-06-30 12:14:53,460 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:53,462 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:53,462 - INFO -   Progressive output written (page 2)
+2025-06-30 12:14:54,267 - INFO -   Page 3: 100 records
+2025-06-30 12:14:54,386 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:54,387 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:54,387 - INFO -   Progressive output written (page 3)
+2025-06-30 12:14:55,257 - INFO -   Page 4: 100 records
+2025-06-30 12:14:55,437 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:55,440 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:55,440 - INFO -   Progressive output written (page 4)
+2025-06-30 12:14:56,160 - INFO -   Page 5: 100 records
+2025-06-30 12:14:56,376 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:56,378 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:56,378 - INFO -   Progressive output written (page 5)
+2025-06-30 12:14:57,074 - INFO -   Page 6: 100 records
+2025-06-30 12:14:57,328 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:57,330 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:57,331 - INFO -   Progressive output written (page 6)
+2025-06-30 12:14:58,037 - INFO -   Page 7: 100 records
+2025-06-30 12:14:58,340 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:58,343 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:58,343 - INFO -   Progressive output written (page 7)
+2025-06-30 12:14:59,099 - INFO -   Page 8: 100 records
+2025-06-30 12:14:59,551 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:14:59,562 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:14:59,562 - INFO -   Progressive output written (page 8)
+2025-06-30 12:15:00,332 - INFO -   Page 9: 100 records
+2025-06-30 12:15:00,752 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:00,756 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:00,756 - INFO -   Progressive output written (page 9)
+2025-06-30 12:15:02,200 - INFO -   Page 10: 100 records
+2025-06-30 12:15:02,616 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:02,620 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:02,620 - INFO -   Progressive output written (page 10)
+2025-06-30 12:15:03,441 - INFO -   Page 11: 100 records
+2025-06-30 12:15:03,885 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:03,888 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:03,888 - INFO -   Progressive output written (page 11)
+2025-06-30 12:15:04,994 - INFO -   Page 12: 100 records
+2025-06-30 12:15:05,479 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:05,483 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:05,483 - INFO -   Progressive output written (page 12)
+2025-06-30 12:15:06,299 - INFO -   Page 13: 100 records
+2025-06-30 12:15:06,855 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:06,860 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:06,861 - INFO -   Progressive output written (page 13)
+2025-06-30 12:15:07,690 - INFO -   Page 14: 100 records
+2025-06-30 12:15:08,246 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:08,251 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:08,251 - INFO -   Progressive output written (page 14)
+2025-06-30 12:15:09,222 - INFO -   Page 15: 100 records
+2025-06-30 12:15:09,838 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:09,842 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:09,843 - INFO -   Progressive output written (page 15)
+2025-06-30 12:15:10,623 - INFO -   Page 16: 100 records
+2025-06-30 12:15:11,254 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:11,260 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:11,260 - INFO -   Progressive output written (page 16)
+2025-06-30 12:15:12,003 - INFO -   Page 17: 100 records
+2025-06-30 12:15:12,684 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:12,691 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:12,691 - INFO -   Progressive output written (page 17)
+2025-06-30 12:15:13,385 - INFO -   Page 18: 100 records
+2025-06-30 12:15:14,065 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:14,071 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:14,071 - INFO -   Progressive output written (page 18)
+2025-06-30 12:15:14,945 - INFO -   Page 19: 100 records
+2025-06-30 12:15:15,790 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:15,800 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:15,801 - INFO -   Progressive output written (page 19)
+2025-06-30 12:15:16,560 - INFO -   Page 20: 100 records
+2025-06-30 12:15:17,368 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:17,374 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:17,375 - INFO -   Progressive output written (page 20)
+2025-06-30 12:15:18,130 - INFO -   Page 21: 100 records
+2025-06-30 12:15:18,971 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:18,979 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:18,979 - INFO -   Progressive output written (page 21)
+2025-06-30 12:15:19,683 - INFO -   Page 22: 100 records
+2025-06-30 12:15:20,570 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:20,577 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:20,578 - INFO -   Progressive output written (page 22)
+2025-06-30 12:15:21,237 - INFO -   Page 23: 100 records
+2025-06-30 12:15:22,142 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:22,150 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:22,150 - INFO -   Progressive output written (page 23)
+2025-06-30 12:15:22,817 - INFO -   Page 24: 100 records
+2025-06-30 12:15:23,745 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:23,753 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:23,753 - INFO -   Progressive output written (page 24)
+2025-06-30 12:15:24,380 - INFO -   Page 25: 100 records
+2025-06-30 12:15:25,377 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:25,385 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:25,385 - INFO -   Progressive output written (page 25)
+2025-06-30 12:15:26,095 - INFO -   Page 26: 100 records
+2025-06-30 12:15:27,138 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:27,147 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:27,147 - INFO -   Progressive output written (page 26)
+2025-06-30 12:15:27,857 - INFO -   Page 27: 100 records
+2025-06-30 12:15:28,971 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:28,980 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:28,980 - INFO -   Progressive output written (page 27)
+2025-06-30 12:15:29,691 - INFO -   Page 28: 100 records
+2025-06-30 12:15:30,835 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:30,844 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:30,845 - INFO -   Progressive output written (page 28)
+2025-06-30 12:15:31,595 - INFO -   Page 29: 100 records
+2025-06-30 12:15:32,783 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:32,818 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:32,819 - INFO -   Progressive output written (page 29)
+2025-06-30 12:15:33,539 - INFO -   Page 30: 100 records
+2025-06-30 12:15:34,813 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:34,844 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:34,844 - INFO -   Progressive output written (page 30)
+2025-06-30 12:15:35,603 - INFO -   Page 31: 100 records
+2025-06-30 12:15:36,908 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:36,921 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:36,921 - INFO -   Progressive output written (page 31)
+2025-06-30 12:15:37,698 - INFO -   Page 32: 100 records
+2025-06-30 12:15:39,041 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:39,051 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:39,051 - INFO -   Progressive output written (page 32)
+2025-06-30 12:15:39,943 - INFO -   Page 33: 100 records
+2025-06-30 12:15:41,781 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:41,794 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:41,794 - INFO -   Progressive output written (page 33)
+2025-06-30 12:15:42,589 - INFO -   Page 34: 100 records
+2025-06-30 12:15:43,991 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:44,002 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:44,002 - INFO -   Progressive output written (page 34)
+2025-06-30 12:15:44,848 - INFO -   Page 35: 100 records
+2025-06-30 12:15:46,229 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:46,240 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:46,241 - INFO -   Progressive output written (page 35)
+2025-06-30 12:15:47,218 - INFO -   Page 36: 100 records
+2025-06-30 12:15:48,691 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:48,705 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:48,706 - INFO -   Progressive output written (page 36)
+2025-06-30 12:15:49,589 - INFO -   Page 37: 100 records
+2025-06-30 12:15:51,166 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:51,180 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:51,181 - INFO -   Progressive output written (page 37)
+2025-06-30 12:15:51,878 - INFO -   Page 38: 100 records
+2025-06-30 12:15:53,476 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:53,489 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:53,489 - INFO -   Progressive output written (page 38)
+2025-06-30 12:15:54,201 - INFO -   Page 39: 100 records
+2025-06-30 12:15:55,890 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:55,903 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:55,903 - INFO -   Progressive output written (page 39)
+2025-06-30 12:15:56,647 - INFO -   Page 40: 100 records
+2025-06-30 12:15:58,253 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:15:58,265 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:15:58,266 - INFO -   Progressive output written (page 40)
+2025-06-30 12:15:59,025 - INFO -   Page 41: 100 records
+2025-06-30 12:16:00,762 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:00,783 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:00,784 - INFO -   Progressive output written (page 41)
+2025-06-30 12:16:01,630 - INFO -   Page 42: 100 records
+2025-06-30 12:16:03,390 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:03,404 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:03,404 - INFO -   Progressive output written (page 42)
+2025-06-30 12:16:04,332 - INFO -   Page 43: 100 records
+2025-06-30 12:16:06,156 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:06,236 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:06,237 - INFO -   Progressive output written (page 43)
+2025-06-30 12:16:06,934 - INFO -   Page 44: 100 records
+2025-06-30 12:16:08,992 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:09,007 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:09,008 - INFO -   Progressive output written (page 44)
+2025-06-30 12:16:09,890 - INFO -   Page 45: 100 records
+2025-06-30 12:16:11,810 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:11,829 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:11,830 - INFO -   Progressive output written (page 45)
+2025-06-30 12:16:12,577 - INFO -   Page 46: 100 records
+2025-06-30 12:16:14,427 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:14,456 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:14,456 - INFO -   Progressive output written (page 46)
+2025-06-30 12:16:15,316 - INFO -   Page 47: 100 records
+2025-06-30 12:16:17,279 - ERROR - Error writing to SQLite: duplicate column name: id
+2025-06-30 12:16:17,298 - ERROR - Error writing to Parquet: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+2025-06-30 12:16:17,301 - INFO -   Progressive output written (page 47)
+2025-06-30 12:16:17,315 - WARNING - Backup interrupted by user
+2025-06-30 12:16:17,316 - INFO - Backup report generated
