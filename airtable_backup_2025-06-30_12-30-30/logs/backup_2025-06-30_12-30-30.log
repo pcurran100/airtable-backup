@@ -1,0 +1,152 @@
+2025-06-30 12:30:30,053 - INFO - Starting Airtable backup process
+2025-06-30 12:30:30,053 - INFO - Output directory: airtable_backup_2025-06-30_12-30-30
+2025-06-30 12:30:30,054 - INFO - Directory structure created
+2025-06-30 12:30:30,054 - INFO - Starting Airtable workspace backup...
+2025-06-30 12:30:30,054 - INFO - Fetching base information...
+2025-06-30 12:30:30,690 - INFO - Found 92 bases
+2025-06-30 12:30:30,691 - INFO -   - First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:30:30,691 - INFO -   - Alltech 2019 (app1WWlu3PZhRLZHi)
+2025-06-30 12:30:30,691 - INFO -   - DPL Startups Database (app2gV4uXElyIOOi8)
+2025-06-30 12:30:30,691 - INFO -   - Hannover Re Incubator (appPKLcttGLuqJMG4)
+2025-06-30 12:30:30,691 - INFO -   - Irish Tech Ecosystem (appFvSiVJTkxktYRl)
+2025-06-30 12:30:30,691 - INFO -   - DPL Events Platform (appeOjGn5AtECrb8f)
+2025-06-30 12:30:30,691 - INFO -   - Alltech 2020 (appGo6m5yzmuHu1OF)
+2025-06-30 12:30:30,691 - INFO -   - OLD ESB X_Potential 2020 OLD (app5JBlyep2cGvtFg)
+2025-06-30 12:30:30,691 - INFO -   - test base (appwihBHJTVmZEsd8)
+2025-06-30 12:30:30,691 - INFO -   - DPL and NDRC Jobs Board (appmZJNmUnTTvxpC9)
+2025-06-30 12:30:30,691 - INFO -   - ESB X_Potential 2022 (apphcVFGlMzME4f3m)
+2025-06-30 12:30:30,691 - INFO -   - First Fridays for Startups (Copy) (appneBjP7f4dygIaH)
+2025-06-30 12:30:30,691 - INFO -   - First Fridays for Startups (Copy) (appVvgaq2zm2NfLHp)
+2025-06-30 12:30:30,691 - INFO -   - Asset & Employee Register (apptmRWtIuTEadp44)
+2025-06-30 12:30:30,691 - INFO -   - TEMPLATE for HR (app0FwYMVyFR9V5dD)
+2025-06-30 12:30:30,691 - INFO -   - Innovation - Sustainability Accelerator (app3RVe7MJLi8Zhir)
+2025-06-30 12:30:30,691 - INFO -   - First Fridays for Startups (April 10, 2023) (app50IaIhoE6P48Kz)
+2025-06-30 12:30:30,691 - INFO -   - Innovation Mentor Platform (appehYaqrsAd2ohRQ)
+2025-06-30 12:30:30,691 - INFO -   - test grounds (appKaQVA7iFJuI0s3)
+2025-06-30 12:30:30,691 - INFO -   - Fierce (app411i5BEbu2WT3V)
+2025-06-30 12:30:30,691 - INFO -   - Dogpatch Community Management (appTNJh7JUzeWInkk)
+2025-06-30 12:30:30,691 - INFO -   - NI: Contacts & Content (appFQpe1XcqxV2FcF)
+2025-06-30 12:30:30,691 - INFO -   - NI: Pipeline (appZXtHGQ2O1IUBpt)
+2025-06-30 12:30:30,691 - INFO -   - NI: Portfolio (appoqzVK5yDvzY4nc)
+2025-06-30 12:30:30,691 - INFO -   - NI: Feedback (app6gB4U7dL05k57b)
+2025-06-30 12:30:30,691 - INFO -   - NI: 4 Years (appDJjkp1A09vZB6A)
+2025-06-30 12:30:30,691 - INFO -   - NI: Resource Library (appxrfWTzBreVRQCt)
+2025-06-30 12:30:30,691 - INFO -   - NI: 2019 Archive (appLKx7n2jUtc0wJv)
+2025-06-30 12:30:30,691 - INFO -   - NI: Archive (appXLcN7TM5zOCNVL)
+2025-06-30 12:30:30,691 - INFO -   - Untitled Base (appe3JDobrsaWaxMI)
+2025-06-30 12:30:30,691 - INFO -   - Bookclub (app9MshgIswLCVFqV)
+2025-06-30 12:30:30,691 - INFO -   - Tech Talent Database (apprYkN9RT7TzVFgB)
+2025-06-30 12:30:30,691 - INFO -   - Menno DB (app58mhPBK5qc71nU)
+2025-06-30 12:30:30,691 - INFO -   - Resource Allocation (app79YJqbRIwyG91L)
+2025-06-30 12:30:30,691 - INFO -   - Innovation Program Platform (appX70XeWe49VQyWv)
+2025-06-30 12:30:30,691 - INFO -   - Software Perks (appI5covXDkZgHIK0)
+2025-06-30 12:30:30,691 - INFO -   - Kennel 2024 (appB1KYbOg0B11z6N)
+2025-06-30 12:30:30,691 - INFO -   - Marketing Calendar Management (app6KWTCpQykZXOIr)
+2025-06-30 12:30:30,691 - INFO -   - Emma Test Base (app5wv3OiWSXA9K40)
+2025-06-30 12:30:30,691 - INFO -   - WiFi Feedback Forms (appR3qiuxKbhNNFHV)
+2025-06-30 12:30:30,691 - INFO -   - NDRC Portfolio (apphn3Y3K3kyrAhek)
+2025-06-30 12:30:30,691 - INFO -   - Early-Stage Supports (appPnzGg2pDuTsHrR)
+2025-06-30 12:30:30,691 - INFO -   - NDRC Accelerator (app2AwjqYa6CHBAKD)
+2025-06-30 12:30:30,691 - INFO -   - Archived - Do not Delete - NDRC Accelerator (appy24PiLThdeqg0K)
+2025-06-30 12:30:30,691 - INFO -   - Masterclasses (appKYg0LWla9MX48H)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weekend #1 (appQZmNtZL8C4ecyP)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weekend #1 (appIUrDbYkUr37rwK)
+2025-06-30 12:30:30,691 - INFO -   - NDRC - Software Costs - Copy of QB.csv (appTULRrjL0d01fRy)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weekend #2 (appTNUIl6m7VhG68N)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weeked #3 (appp0qdvnYuM2uu9A)
+2025-06-30 12:30:30,691 - INFO -   - NDRC Sample Base (appKT4ROAuI17aZM3)
+2025-06-30 12:30:30,691 - INFO -   - test base (appfrjlFtyacaZg64)
+2025-06-30 12:30:30,691 - INFO -   - Removed NDRC Startups (appd3RCFKBqSjfhGO)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weeked #4 (appzb6HV8BWtnIfVT)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weeked #5 (appjoIid0LnyU3svQ)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weeked #6 (app2ZDGSvzZ1wC9eZ)
+2025-06-30 12:30:30,691 - INFO -   - Founder Weeked #7 (DPL 2022) (appxutUVLGK3nOo2h)
+2025-06-30 12:30:30,692 - INFO -   - NDRC ESS Mentors & Speakers (appi9gWwW6zjVNpb9)
+2025-06-30 12:30:30,692 - INFO -   - Founder Weeked #8 (RDI 2023) (appRS44cilKG5DvNX)
+2025-06-30 12:30:30,692 - INFO -   - NDRC Mailing List (appY9UzLbOQ1pVNpV)
+2025-06-30 12:30:30,692 - INFO -   - 2023 Founders Talent Accelerator (appa7jPKCyR7vyBQ0)
+2025-06-30 12:30:30,692 - INFO -   -  Founder Weeked #9 (DPL 2023) (appWPngPgnGL2YS1Y)
+2025-06-30 12:30:30,692 - INFO -   - Pitch Clinics Booking (appoMBHjbHCgCRYGk)
+2025-06-30 12:30:30,692 - INFO -   - Founder Weeked #10 (RoW 2023) (appBsLuAFoW9cfwkm)
+2025-06-30 12:30:30,692 - INFO -   - NDRC Accelerator Perks [OLD] (appzshDANWQb9THUY)
+2025-06-30 12:30:30,692 - INFO -   - Founder Weeked #11 (PS 2023) (appmKAyVy0R7JTZyD)
+2025-06-30 12:30:30,692 - INFO -   - Startup Sprint @ UL 2023 (app81Ba8FQUk2PA4j)
+2025-06-30 12:30:30,692 - INFO -   - Accelerator NDRC (Applications & Selection) (app4dIhIomLpRzOwa)
+2025-06-30 12:30:30,692 - INFO -   - [OLD] Founders Accelerator Phase [OLD] (appr9skZidQCYfZBt)
+2025-06-30 12:30:30,692 - INFO -   - Universities (appj9bopLyYavrT6c)
+2025-06-30 12:30:30,692 - INFO -   - ESS Documentation (appPOSgkIfXy81gZI)
+2025-06-30 12:30:30,692 - INFO -   -  Founder Weeked #13 (RDI 2024) (apprgwmi4Ee7PFYk3)
+2025-06-30 12:30:30,692 - INFO -   - 2024 Founders Talent Accelerator (appv4GvJ1qbapMRcn)
+2025-06-30 12:30:30,692 - INFO -   - 2050 Hackathon #14 (Q1 2024) (appBOJUtlKuEaJ4G8)
+2025-06-30 12:30:30,692 - INFO -   -  Founder Weeked #15 (DPL 2024) (appj1SBCtXwPcIQCg)
+2025-06-30 12:30:30,692 - INFO -   - Startup Sprint (RoW 2024) (appRWV1OdfIjU64v4)
+2025-06-30 12:30:30,692 - INFO -   - Founders Portfolio (app1J4TfGGufuV8sD)
+2025-06-30 12:30:30,692 - INFO -   - Media Monitoring | ISE Project (app6jaivrEIoHEQnd)
+2025-06-30 12:30:30,692 - INFO -   - Founder Weekend (PorterShed 2024) (appTV0lX7E9Ge5CwT)
+2025-06-30 12:30:30,692 - INFO -   - Startup Day @ Google (25/10/24) (appAHADa8seyoHXsj)
+2025-06-30 12:30:30,692 - INFO -   - Frontline x Dogpatch Office Hours (v2) (app1KGw0dakzwSvnI)
+2025-06-30 12:30:30,692 - INFO -   - Startup Sprint (RDI/ISE 2024) (appLT5ki7yFq01Nn8)
+2025-06-30 12:30:30,692 - INFO -   - Project Management (appYrBxSo8i2lwIdj)
+2025-06-30 12:30:30,692 - INFO -   - NDRC Lunch & Learns (appafWH4eHIZOjr0G)
+2025-06-30 12:30:30,692 - INFO -   - Startup Sprint (RoW 2025) (appfubNWh3rar4gZE)
+2025-06-30 12:30:30,692 - INFO -   - NDRC Accelerator (January 31, 2024) (apphELEgX8Bu5uInv)
+2025-06-30 12:30:30,692 - INFO -   - Early-Stage Supports (December 22, 2024) - Perks Query (appl1lhmFnkHyRtoi)
+2025-06-30 12:30:30,692 - INFO -   - Startup Sprint (RDI Hub 2025) (appUvdBumpl332bcv)
+2025-06-30 12:30:30,692 - INFO -   - Founders Accelerator Phase (April 16, 2024) (appJkzRl7KcXhKwwE)
+2025-06-30 12:30:30,692 - INFO -   - Founders Phase 2 - Accelerator (appEfoxJkpbr2T0rh)
+2025-06-30 12:30:30,692 - INFO -   -  Founder Weekend #21 (Portershed 2025) (appYJuFLDsLFYgkqM)
+2025-06-30 12:30:30,692 - INFO -   - ESB X_Potential 2023 (appIO5I8UZDJRM7AE)
+2025-06-30 12:30:30,693 - INFO - 
+Processing base: First Fridays for Startups (appGByjQgZPE3xIEP)
+2025-06-30 12:30:31,542 - INFO - Found 11 tables in base appGByjQgZPE3xIEP
+2025-06-30 12:30:31,543 - INFO - 
+Processing table: Users
+2025-06-30 12:30:31,543 - INFO - Fetching records from table 'Users'...
+2025-06-30 12:30:32,246 - INFO -   Page 1: 100 records
+2025-06-30 12:30:32,298 - INFO -   Progressive output written (page 1)
+2025-06-30 12:30:33,060 - INFO -   Page 2: 100 records
+2025-06-30 12:30:33,155 - INFO -   Progressive output written (page 2)
+2025-06-30 12:30:33,866 - INFO -   Page 3: 100 records
+2025-06-30 12:30:34,011 - INFO -   Progressive output written (page 3)
+2025-06-30 12:30:34,923 - INFO -   Page 4: 100 records
+2025-06-30 12:30:35,080 - INFO -   Progressive output written (page 4)
+2025-06-30 12:30:35,759 - INFO -   Page 5: 100 records
+2025-06-30 12:30:35,971 - INFO -   Progressive output written (page 5)
+2025-06-30 12:30:36,722 - INFO -   Page 6: 100 records
+2025-06-30 12:30:36,952 - INFO -   Progressive output written (page 6)
+2025-06-30 12:30:37,597 - INFO -   Page 7: 100 records
+2025-06-30 12:30:37,857 - INFO -   Progressive output written (page 7)
+2025-06-30 12:30:38,522 - INFO -   Page 8: 100 records
+2025-06-30 12:30:38,832 - INFO -   Progressive output written (page 8)
+2025-06-30 12:30:39,512 - INFO -   Page 9: 93 records
+2025-06-30 12:30:39,838 - INFO -   Progressive output written (page 9)
+2025-06-30 12:30:39,838 - INFO - Total records fetched: 893
+2025-06-30 12:30:39,839 - INFO - Completed table: Users (893 records)
+2025-06-30 12:30:39,839 - INFO - 
+Processing table: Mentoring Applications
+2025-06-30 12:30:39,839 - INFO - Fetching records from table 'Mentoring Applications'...
+2025-06-30 12:30:40,763 - INFO -   Page 1: 100 records
+2025-06-30 12:30:41,045 - INFO -   Progressive output written (page 1)
+2025-06-30 12:30:42,654 - INFO -   Page 2: 100 records
+2025-06-30 12:30:43,008 - INFO -   Progressive output written (page 2)
+2025-06-30 12:30:44,646 - INFO -   Page 3: 100 records
+2025-06-30 12:30:45,203 - INFO -   Progressive output written (page 3)
+2025-06-30 12:30:47,486 - INFO -   Page 4: 100 records
+2025-06-30 12:30:48,230 - INFO -   Progressive output written (page 4)
+2025-06-30 12:30:49,115 - INFO -   Page 5: 72 records
+2025-06-30 12:30:50,022 - INFO -   Progressive output written (page 5)
+2025-06-30 12:30:50,022 - INFO - Total records fetched: 472
+2025-06-30 12:30:50,023 - INFO - Completed table: Mentoring Applications (472 records)
+2025-06-30 12:30:50,023 - INFO - 
+Processing table: Timeslots
+2025-06-30 12:30:50,023 - INFO - Fetching records from table 'Timeslots'...
+2025-06-30 12:30:50,927 - INFO -   Page 1: 100 records
+2025-06-30 12:30:51,076 - INFO -   Progressive output written (page 1)
+2025-06-30 12:30:51,932 - INFO -   Page 2: 100 records
+2025-06-30 12:30:52,184 - INFO -   Progressive output written (page 2)
+2025-06-30 12:30:53,101 - INFO -   Page 3: 100 records
+2025-06-30 12:30:53,494 - INFO -   Progressive output written (page 3)
+2025-06-30 12:30:54,415 - INFO -   Page 4: 100 records
+2025-06-30 12:30:54,933 - INFO -   Progressive output written (page 4)
+2025-06-30 12:30:55,987 - WARNING - Backup interrupted by user
+2025-06-30 12:30:55,992 - INFO - Backup report generated

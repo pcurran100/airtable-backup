@@ -37,8 +37,23 @@ import sys
 try:
     import pandas as pd
     PANDAS_AVAILABLE = True
+    # Check for parquet engines
+    try:
+        import pyarrow
+        PARQUET_AVAILABLE = True
+        PARQUET_ENGINE = 'pyarrow'
+    except ImportError:
+        try:
+            import fastparquet
+            PARQUET_AVAILABLE = True
+            PARQUET_ENGINE = 'fastparquet'
+        except ImportError:
+            PARQUET_AVAILABLE = False
+            PARQUET_ENGINE = None
 except ImportError:
     PANDAS_AVAILABLE = False
+    PARQUET_AVAILABLE = False
+    PARQUET_ENGINE = None
     print("Warning: pandas not available. Parquet export will be skipped.")
 
 try:
@@ -266,7 +281,7 @@ class AirtableBackup:
         self.write_sqlite(records, sqlite_file, safe_table_name)
         
         # Write Parquet if available
-        if PANDAS_AVAILABLE:
+        if PANDAS_AVAILABLE and PARQUET_AVAILABLE:
             parquet_file = self.output_dir / 'data' / 'parquet' / f'{base_id}_{safe_table_name}.parquet'
             self.write_parquet(records, parquet_file)
             
@@ -333,7 +348,10 @@ class AirtableBackup:
                 
                 for record in records:
                     fields = record['fields'].copy()
-                    fields['id'] = record['id']
+                    # Use record ID as the primary key, remove any conflicting 'id' field
+                    if 'id' in fields:
+                        fields['record_id'] = fields.pop('id')  # Rename conflicting field
+                    fields['id'] = record['id']  # Use the record's main ID
                     
                     # Process attachment fields
                     for field, value in fields.items():
@@ -355,7 +373,11 @@ class AirtableBackup:
                 # Collect all possible fieldnames from all records
                 all_fieldnames = set()
                 for record in records:
-                    all_fieldnames.update(record['fields'].keys())
+                    # Handle potential 'id' field conflicts
+                    fields = record['fields'].copy()
+                    if 'id' in fields:
+                        fields['record_id'] = fields.pop('id')  # Rename conflicting field
+                    all_fieldnames.update(fields.keys())
                 
                 # Create table if not exists with all possible fields
                 if records:
@@ -366,7 +388,10 @@ class AirtableBackup:
                     # Insert records
                     for record in records:
                         fields = record['fields'].copy()
-                        fields['id'] = record['id']
+                        # Handle potential 'id' field conflicts
+                        if 'id' in fields:
+                            fields['record_id'] = fields.pop('id')  # Rename conflicting field
+                        fields['id'] = record['id']  # Use the record's main ID
                         
                         # Ensure all fields are present (fill missing with None)
                         for field in all_fieldnames:
@@ -387,7 +412,11 @@ class AirtableBackup:
             
     def write_parquet(self, records: List[Dict], filepath: Path):
         """Write records to Parquet format."""
-        if not PANDAS_AVAILABLE or not records:
+        if not PANDAS_AVAILABLE or not PARQUET_AVAILABLE or not records:
+            if not PANDAS_AVAILABLE:
+                self.logger.debug("Skipping Parquet export: pandas not available")
+            elif not PARQUET_AVAILABLE:
+                self.logger.debug("Skipping Parquet export: no parquet engine available (install pyarrow or fastparquet)")
             return
             
         try:
@@ -403,10 +432,11 @@ class AirtableBackup:
                 df_data.append(row)
                 
             df = pd.DataFrame(df_data)
-            df.to_parquet(filepath, index=False)
+            df.to_parquet(filepath, index=False, engine=PARQUET_ENGINE)
             
         except Exception as e:
             self.logger.error(f"Error writing to Parquet: {e}")
+            # Don't let parquet errors stop the backup process
             
     def save_name_mapping(self, base_info: Dict[str, str]):
         """Save a mapping of original names to sanitized names for reference."""
@@ -448,11 +478,22 @@ class AirtableBackup:
         
     def save_metadata(self, base_info: Dict[str, str]):
         """Save metadata about the backup."""
+        # Determine available formats
+        available_formats = ['json', 'yaml', 'ndjson', 'csv', 'sqlite']
+        if PANDAS_AVAILABLE and PARQUET_AVAILABLE:
+            available_formats.append('parquet')
+        
         metadata = {
             'backup_date': self.backup_date,
             'bases': base_info,
             'statistics': self.stats,
-            'formats': ['json', 'yaml', 'ndjson', 'csv', 'sqlite'] + (['parquet'] if PANDAS_AVAILABLE else [])
+            'formats': available_formats,
+            'dependencies': {
+                'pandas_available': PANDAS_AVAILABLE,
+                'parquet_available': PARQUET_AVAILABLE,
+                'parquet_engine': PARQUET_ENGINE,
+                'sqlite_utils_available': SQLITE_UTILS_AVAILABLE
+            }
         }
         
         # Save as JSON
@@ -472,6 +513,11 @@ class AirtableBackup:
         
     def generate_report(self):
         """Generate a summary report."""
+        # Determine available formats
+        available_formats = ['json', 'yaml', 'ndjson', 'csv', 'sqlite']
+        if PANDAS_AVAILABLE and PARQUET_AVAILABLE:
+            available_formats.append('parquet')
+        
         report = f"""
 Airtable Backup Report
 =====================
@@ -486,13 +532,18 @@ Statistics:
 - Attachments Downloaded: {self.stats['attachments_downloaded']}
 - Errors: {len(self.stats['errors'])}
 
-Output Formats:
+Dependencies Status:
+- Pandas: {'Available' if PANDAS_AVAILABLE else 'Not Available'}
+- Parquet Engine: {PARQUET_ENGINE if PARQUET_AVAILABLE else 'Not Available'}
+- SQLite Utils: {'Available' if SQLITE_UTILS_AVAILABLE else 'Not Available'}
+
+Output Formats: {', '.join(available_formats)}
 - JSON: {self.output_dir}/data/json/
 - YAML: {self.output_dir}/data/yaml/
 - NDJSON: {self.output_dir}/data/ndjson/
 - CSV: {self.output_dir}/data/csv/
 - SQLite: {self.output_dir}/data/sqlite/
-- Parquet: {self.output_dir}/data/parquet/ (if pandas available)
+- Parquet: {self.output_dir}/data/parquet/ ({'Available' if PANDAS_AVAILABLE and PARQUET_AVAILABLE else 'Not Available'})
 
 Attachments: {self.output_dir}/attachments/
 Logs: {self.output_dir}/logs/

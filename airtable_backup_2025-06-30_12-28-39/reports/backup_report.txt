@@ -1,0 +1,26 @@
+
+Airtable Backup Report
+=====================
+
+Backup Date: 2025-06-30_12-28-39
+Output Directory: airtable_backup_2025-06-30_12-28-39
+
+Statistics:
+- Bases Processed: 0
+- Tables Processed: 0
+- Records Processed: 0
+- Attachments Downloaded: 0
+- Errors: 0
+
+Output Formats:
+- JSON: airtable_backup_2025-06-30_12-28-39/data/json/
+- YAML: airtable_backup_2025-06-30_12-28-39/data/yaml/
+- NDJSON: airtable_backup_2025-06-30_12-28-39/data/ndjson/
+- CSV: airtable_backup_2025-06-30_12-28-39/data/csv/
+- SQLite: airtable_backup_2025-06-30_12-28-39/data/sqlite/
+- Parquet: airtable_backup_2025-06-30_12-28-39/data/parquet/ (if pandas available)
+
+Attachments: airtable_backup_2025-06-30_12-28-39/attachments/
+Logs: airtable_backup_2025-06-30_12-28-39/logs/
+Metadata: airtable_backup_2025-06-30_12-28-39/metadata/
+
